@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="MainWindow">
+    <file>measure.jpg</file>
+  </qresource>
+</RCC>
