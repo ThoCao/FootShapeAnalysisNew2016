@@ -1,5 +1,9 @@
 <RCC>
   <qresource prefix="MainWindow">
+    <file>set-square.png</file>
+    <file>detect.png</file>
+    <file>save.png</file>
+    <file>reload.jpg</file>
     <file>measure.jpg</file>
   </qresource>
 </RCC>

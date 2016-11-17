@@ -32,6 +32,7 @@ public:
 		}	
 	}
 	void SetImage(QImage& image){
+		image = image.scaledToWidth(width());
 		setPixmap(QPixmap::fromImage(image));
 	}
 	void UpdateView(){
